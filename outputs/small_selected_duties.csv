@@ -1,0 +1,3 @@
+instance_name,duty_id,trip_sequence,first_start_station,last_end_station,duty_start,duty_end,duty_duration_minutes,duty_duration_hhmm,number_of_trips,duty_cost
+small,d2,T1 -> T2 -> T3,A,D,08:00,11:30,210,03:30,3,155.0
+small,d12,T4 -> T5 -> T6,B,B,09:50,13:15,205,03:25,3,152.5

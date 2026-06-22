@@ -1,0 +1,3 @@
+instance_name,number_of_trips,number_of_stations,number_of_candidate_duties,number_of_selected_duties,objective_value,solver_status,solve_time_seconds,coverage_verified
+small,6,4,17,2,307.5,Optimal,0.029831409454345703,True
+medium,34,10,676,5,877.0,Optimal,0.10347723960876465,True

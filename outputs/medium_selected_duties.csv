@@ -1,0 +1,6 @@
+instance_name,duty_id,trip_sequence,first_start_station,last_end_station,duty_start,duty_end,duty_duration_minutes,duty_duration_hhmm,number_of_trips,duty_cost
+medium,d10,M1 -> M2 -> M3 -> M4 -> M5 -> M6 -> M7 -> M8 -> M9 -> M23 -> M24,Beograd Centar,Batajnica,06:00,12:37,397,06:37,11,248.5
+medium,d87,M10 -> M11 -> M12 -> M13 -> M14 -> M15 -> M16 -> M17 -> M18 -> M19 -> M20 -> M21 -> M22,Novi Sad,Novi Sad,06:20,13:50,450,07:30,13,275.0
+medium,d622,M25 -> M26,Batajnica,Beograd Centar,12:45,13:43,58,00:58,2,79.0
+medium,d653,M27 -> M28 -> M29 -> M30,Beograd Centar,Novi Sad,16:00,19:00,180,03:00,4,140.0
+medium,d660,M31 -> M32 -> M33 -> M34,Novi Sad,Beograd Centar,16:10,18:59,169,02:49,4,134.5

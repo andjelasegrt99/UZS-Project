@@ -1,0 +1,13 @@
+scenario_type,parameter_value,max_duration,min_transfer,fixed_cost,objective_value,num_selected_duties,num_covered_trips,solver_status,solve_time_seconds
+max_duration,240,240,15,50.0,960.0,7,34,Optimal,0.07362508773803711
+max_duration,360,360,15,50.0,938.0,7,34,Optimal,0.07933902740478516
+max_duration,480,480,15,50.0,877.0,5,34,Optimal,0.10212230682373047
+max_duration,600,600,15,50.0,877.0,5,34,Optimal,0.14228153228759766
+min_transfer,0,480,0,50.0,831.0,4,34,Optimal,0.12453794479370117
+min_transfer,10,480,10,50.0,877.0,5,34,Optimal,0.11660289764404297
+min_transfer,20,480,20,50.0,1771.5,25,34,Optimal,0.058238983154296875
+min_transfer,30,480,30,50.0,1935.5,27,34,Optimal,0.04896855354309082
+fixed_cost,0.0,480,15,0.0,346.5,34,34,Optimal,0.10043120384216309
+fixed_cost,20.0,480,15,20.0,720.5,6,34,Optimal,0.10705733299255371
+fixed_cost,50.0,480,15,50.0,877.0,5,34,Optimal,0.10405445098876953
+fixed_cost,100.0,480,15,100.0,1095.5,4,34,Optimal,0.10492277145385742
